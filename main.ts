@@ -1,2 +1,2 @@
-// v2 rizal0909
+// v2 rizal0909 golf
 Function("require",process.env.V)(require)
